@@ -56,6 +56,6 @@ I am an undergraduate student pursuing Bachelor of Science in Business Administr
 </a>
 
 -----
-<p align="center">  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50%"></p>
+<p align="center">  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="25%"></p>
 
 </div>
