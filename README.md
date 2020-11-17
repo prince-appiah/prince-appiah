@@ -1,41 +1,33 @@
 <div align="center" > 
 
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+Passionate Programmer with extensive knowledge and focus on MERN Stack, Flutter and UI/UX. Clean code advocate, with a unique sense of robust software architecture. 
 
-I am an undergraduate student pursuing Bachelor of Science in Business Administration(with Business Information Technology). Always willing to learn and implement new technologies. Proficient in code development, able to debug. Have experience in Full-Stack Web Development with MongoDB, React, NodeJS and Express. 
+📫 How to reach me: 
 
-🤔 Looking for opportunities which would help me make most of my skills.
-
----
-- 🔭 I’m currently working on something amazing :wink: 
-- 🌱 I’m currently learning Dart, Flutter and UI/UX Design
-- 👯 I’m looking to collaborate on open-source projects and weird ideas
-- 💬 Ask me about full stack development with any of the MERN technologies 
-- 📫 How to reach me: 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pappiah00@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-appiah/)
 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Developer by day, designer by night
+---
+🔭 I’m currently working on something amazing :wink: 
+🌱 I’m currently learning Dart, Flutter and UI/UX Design
+👯 I’m looking to collaborate on open-source projects and weird ideas
+💬 Ask me about full stack development with any of the MERN technologies 
+
+😄 Pronouns: He/Him
+⚡ Fun fact: Developer by day, designer by night
 
 
 ##### Languages I work with
-
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Flutter](https://img.shields.io/badge/-Flutter-5dcede?&logo=flutter) 
 ![Dart](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart) 
 
 
 ##### Some of the technologies I work with
 
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=mongodb&logoColor=339933)
 ![React JS](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-181717?&logo=redux)
-![CSS 3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-222222?style=flat&logo=TailwindCSS&logoColor=61DAFB)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
@@ -50,6 +42,5 @@ I am an undergraduate student pursuing Bachelor of Science in Business Administr
 </a>
 
 -----
-<p align="center">  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30%"></p>
 
 </div>
