@@ -32,15 +32,4 @@ Passionate Programmer with extensive knowledge and focus on MERN Stack, Flutter 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
 
-<a href="https://github.com/prince-appiah">
-  <img src="https://github-readme-stats.vercel.app/api?username=prince-appiah&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" />
-</a>
-
-
-<a href="https://github.com/prince-appiah">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-appiah&theme=radical&layout=compact" />
-</a>
-
------
-
 </div>
