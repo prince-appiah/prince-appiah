@@ -28,6 +28,6 @@ Passionate Programmer with extensive knowledge and focus on MERN Stack, Flutter 
 ![React JS](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-181717?&logo=redux)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-222222?style=flat&logo=TailwindCSS&logoColor=61DAFB)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/-VS%20Code-222222?style=flat&logo=visual-studio-code)
 
 
