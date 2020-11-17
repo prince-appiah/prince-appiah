@@ -1,4 +1,3 @@
-<div align="center" > 
 
 Passionate Programmer with extensive knowledge and focus on MERN Stack, Flutter and UI/UX. Clean code advocate, with a unique sense of robust software architecture. 
 
@@ -8,10 +7,10 @@ Passionate Programmer with extensive knowledge and focus on MERN Stack, Flutter 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-appiah/)
 
 ---
-🔭 I’m currently working on something amazing :wink: 
-🌱 I’m currently learning Dart, Flutter and UI/UX Design
-👯 I’m looking to collaborate on open-source projects and weird ideas
-💬 Ask me about full stack development with any of the MERN technologies 
+- 🔭 I’m currently working on something amazing :wink: 
+- 🌱 I’m currently learning Dart, Flutter and UI/UX Design
+- 👯 I’m looking to collaborate on open-source projects and weird ideas
+- 💬 Ask me about full stack development with any of the MERN technologies 
 
 😄 Pronouns: He/Him
 ⚡ Fun fact: Developer by day, designer by night
@@ -32,4 +31,3 @@ Passionate Programmer with extensive knowledge and focus on MERN Stack, Flutter 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
 
-</div>
