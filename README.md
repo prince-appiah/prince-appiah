@@ -9,7 +9,7 @@ Passionate Programmer with extensive knowledge and focus on MERN Stack, Flutter 
 
 ---
 - 🔭  I’m currently working on something amazing :wink: 
-- 🌱  I’m currently learning Dart, Flutter and UI/UX Design
+- 🌱  I’m currently learning SQL Database
 - 👯  I’m looking to collaborate on open-source projects and weird ideas
 - 💬  Ask me about MERN development and UI Design
 - 😄  Pronouns: He/Him
@@ -29,7 +29,8 @@ Passionate Programmer with extensive knowledge and focus on MERN Stack, Flutter 
 ![Redux](https://img.shields.io/badge/-Redux-181717?&logo=redux)
 ![Chakra UI](https://img.shields.io/badge/-ChakraUI-222222?style=flat&logo=chakra-ui&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-222222?style=flat&logo=TailwindCSS&logoColor=61DAFB)
-![VS Code](https://img.shields.io/badge/-VS%20Code-222222?style=flat&logo=visual-studio-code)
 ![Flutter](https://img.shields.io/badge/-Flutter-222222?&logo=flutter) 
+![VS Code](https://img.shields.io/badge/-VS%20Code-222222?style=flat&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/-Figma-222222?style=flat&logo=figma)
 
 
