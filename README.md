@@ -16,21 +16,36 @@ Passionate Programmer with extensive knowledge and focus on MERN Stack, Flutter 
 - ⚡ Fun fact: Developer by day, designer by night
 
 
-##### Languages I work with
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Dart](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart) 
+#### LANGUAGES
+
+> ![](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+  ![](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 
-##### Some of the technologies I work with
+#### TOOLS & TECH STACK
 
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=mongodb&logoColor=339933)
-![React JS](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/-Redux-181717?&logo=redux)
-![Chakra UI](https://img.shields.io/badge/-ChakraUI-222222?style=flat&logo=chakra-ui&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-222222?style=flat&logo=TailwindCSS&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/-Flutter-222222?&logo=flutter) 
-![VS Code](https://img.shields.io/badge/-VS%20Code-222222?style=flat&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/-Figma-222222?style=flat&logo=figma)
-
+   Backend:
+ 
+   > ![](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+   ![](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+   ![](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white)
+   ![](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+  
+  
+  Frontend:
+ > ![](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+   ![](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
+   ![](https://img.shields.io/badge/-Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+   ![](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=materialui&logoColor=white)
+   ![](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  
+   Database:
+ > ![](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+   ![](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+   
+   Mobile:
+ > ![](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  
+   Design:
+ > ![](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
