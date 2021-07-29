@@ -24,13 +24,10 @@ Passionate Programmer with extensive knowledge and focus on MERN Stack, Flutter 
 
 #### TOOLS & TECH STACK
 
-   Backend:
+  Backend:
  
-   > ![](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+ > ![](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
    ![](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-   ![](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white)
-   ![](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-  
   
   Frontend:
  > ![](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=React&logoColor=white)
@@ -42,6 +39,10 @@ Passionate Programmer with extensive knowledge and focus on MERN Stack, Flutter 
    Database:
  > ![](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
    ![](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+   
+   Package Managers:
+ > ![](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white)
+   ![](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
    
    Mobile:
  > ![](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
