@@ -9,7 +9,6 @@ Passionate Programmer with extensive knowledge and focus on MERN Stack, Flutter 
 
 ---
 - 🔭  I’m currently working on something amazing :wink: 
-- 🌱  I’m currently learning SQL Database
 - 👯  I’m looking to collaborate on open-source projects and weird ideas
 - 💬  Ask me about MERN development and UI Design
 - 😄  Pronouns: He/Him
@@ -50,3 +49,5 @@ Passionate Programmer with extensive knowledge and focus on MERN Stack, Flutter 
    Design:
  > ![](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+
+> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prince-appiah&theme=react&hide_border=true&ring=DD2727&stroke=DDC3C2)](https://git.io/streak-stats)
