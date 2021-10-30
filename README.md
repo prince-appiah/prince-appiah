@@ -7,12 +7,11 @@ Passionate Programmer with extensive knowledge and focus on MERN Stack, Flutter 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-appiah/)
 [![Dribbble](https://img.shields.io/badge/-DRIBBBLE-F082AC?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/prince-appiah)
 
+
 ---
 - 🔭  I’m currently working on something amazing :wink: 
 - 👯  I’m looking to collaborate on open-source projects and weird ideas
-- 💬  Ask me about MERN development and UI Design
-- 😄  Pronouns: He/Him
-- ⚡ Fun fact: Developer by day, designer by night
+- 💬  Ask me about MERN development and UI Design  
 
 
 #### LANGUAGES
@@ -49,5 +48,5 @@ Passionate Programmer with extensive knowledge and focus on MERN Stack, Flutter 
    Design:
  > ![](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
+ 
 > [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prince-appiah&theme=react&hide_border=true&ring=DD2727&stroke=DDC3C2)](https://git.io/streak-stats)
