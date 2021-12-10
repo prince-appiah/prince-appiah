@@ -17,7 +17,9 @@ Passionate Programmer with extensive knowledge and focus on MERN Stack, Flutter 
 #### LANGUAGES
 
 > ![](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+> ![](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+  
 
 
 #### TOOLS & TECH STACK
