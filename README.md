@@ -9,6 +9,7 @@ Passionate Programmer with extensive knowledge and focus on MERN Stack, Flutter 
 
 
 ---
+- 📝 Learning GraphQL with Express and React/Nextjs
 - 🔭  I’m currently working on [Shelter](http://shelter-three.vercel.app/). Source code available on request.
 - 👯  I’m looking to collaborate on open-source projects and weird ideas
 - 💬  Ask me about MERN development and UI Design  
@@ -31,7 +32,9 @@ Passionate Programmer with extensive knowledge and focus on MERN Stack, Flutter 
   
   Frontend:
  > ![](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+   ![](https://img.shields.io/badge/-Next_JS-61DAFB?style=for-the-badge&logo=nextjs&logoColor=white)
    ![](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
+   ![](https://img.shields.io/badge/-Recoil_JS-61DAFB?style=for-the-badge&logo=recoiljs&logoColor=white)
    ![](https://img.shields.io/badge/-Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
    ![](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=materialui&logoColor=white)
    ![](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -39,6 +42,7 @@ Passionate Programmer with extensive knowledge and focus on MERN Stack, Flutter 
    Database:
  > ![](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
    ![](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+   ![](https://img.shields.io/badge/-Firebase-F7DF1E?style=for-the-badge&logo=Firebase&logoColor=white)
    
    Package Managers:
  > ![](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white)
