@@ -1,5 +1,7 @@
 
-Passionate Programmer with extensive knowledge and focus on MERN Stack, Flutter and UI/UX. Clean code advocate, with a unique sense of robust software architecture. 
+I'm a results-driven and tech-savvy software developer with 3+ years of experience in web development and product design. I'm passionate about building scalable applications with great user experiences.
+I excel at working with key stakeholders and team members to identify and solve problems, taking ownership of development and challenges from start to finish. My development experience spans over 3 years and involves multiple backend and frontend technologies.
+My goal is to deliver complete, high quality solutions on time
 
 📫 How to reach me: 
 
