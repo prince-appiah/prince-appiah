@@ -13,7 +13,7 @@ My goal is to deliver complete, high quality solutions on time
 ---
 - 📝 Learning GraphQL with Express and React/Nextjs
 - 🔦 Exploring Web3/Dapp development 
-- 🔭  I’m currently working on [Shelter](http://shelter-three.vercel.app/).
+- 🔭  I’m currently working on [AutoCovr](https://auto-covr.vercel.app/).
 - 👯  I’m looking to collaborate on open-source projects and weird ideas
 - 💬  Ask me about Frontend development and UI Design  
 
