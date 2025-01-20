@@ -1,13 +1,12 @@
 
-I'm a results-driven and tech-savvy software developer with 3+ years of experience in web development and product design. I'm passionate about building scalable applications with great user experiences.
-I excel at working with key stakeholders and team members to identify and solve problems, taking ownership of development and challenges from start to finish. My development experience spans over 3 years and involves multiple backend and frontend technologies.
+I'm a results-driven and tech-savvy software developer with 4+ years of experience in web development and product design. I'm passionate about building scalable applications with great user experiences.
+I excel at working with key stakeholders and team members to identify and solve problems, taking ownership of development and challenges from start to finish. My development experience spans over 4 years and involves multiple backend and frontend technologies.
 My goal is to deliver complete, high quality solutions on time
 
 📫 How to reach me: 
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pappiah00@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-appiah/)
-[![Dribbble](https://img.shields.io/badge/-DRIBBBLE-F082AC?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/prince-appiah)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-appiah/) 
 
 
 ---
@@ -21,7 +20,7 @@ My goal is to deliver complete, high quality solutions on time
 
 > ![](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 > ![](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+> ![](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
   
 
 
@@ -48,13 +47,17 @@ My goal is to deliver complete, high quality solutions on time
    
    Package Managers:
  > ![](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white)
+ > ![](https://img.shields.io/badge/-PNPM-CB3837?style=for-the-badge&logo=PNPM&logoColor=yellow)
    ![](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
    
    Mobile:
  > ![](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+ > ![](https://img.shields.io/badge/-ReactNative-02569B?style=for-the-badge&logo=react-native&logoColor=blue)
   
    Design:
  > ![](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
- 
-> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prince-appiah&theme=react&hide_border=true&ring=DD2727&stroke=DDC3C2)](https://git.io/streak-stats)
+
+ <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=prince-appiah&theme=dark&hide_border=false" alt="GitHub Streak" />
+</a>
