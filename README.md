@@ -12,9 +12,9 @@ Most of my recent work has been on production monorepos: type-safe APIs, backgro
 
 ### What I'm working on
 
-🔭 **[Codensity](https://getcodensity.com)** - a developer platform that tracks the resource usage and carbon footprint of software features. It measures execution time, memory and CPU, then attributes energy (kWh) and emissions (gCO2e) back to the feature that caused them, with the arithmetic and published coefficients visible behind every figure.
+🔭 **[Codensity](https://www.getcodensity.com/?utm_source=github&utm_medium=referral&utm_campaign=public_beta&utm_content=readme)** - a developer platform that tracks the resource usage and carbon footprint of software features. It measures execution time, memory and CPU, then attributes energy (kWh) and emissions (gCO2e) back to the feature that caused them, with the arithmetic and published coefficients visible behind every figure.
 
-[![Live app](https://img.shields.io/badge/-getcodensity.com-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://getcodensity.com)
+[![Live app](https://img.shields.io/badge/-getcodensity.com-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.getcodensity.com/?utm_source=github&utm_medium=referral&utm_campaign=public_beta&utm_content=readme)
 [![npm](https://img.shields.io/npm/v/%40codensity%2Fnode?style=for-the-badge&logo=npm&logoColor=white&label=%40codensity%2Fnode&color=CB3837)](https://www.npmjs.com/package/@codensity/node)
 
 - 📦 The Node.js SDK ships as **[`@codensity/node`](https://www.npmjs.com/package/@codensity/node)** - one `track()` call wraps any async function, with first-class Express middleware and a NestJS module, interceptor and decorator.
