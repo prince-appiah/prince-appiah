@@ -16,9 +16,11 @@ Most of my recent work has been on production monorepos: type-safe APIs, backgro
 
 [![Live app](https://img.shields.io/badge/-getcodensity.com-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.getcodensity.com/?utm_source=github&utm_medium=referral&utm_campaign=public_beta&utm_content=readme)
 [![npm](https://img.shields.io/npm/v/%40codensity%2Fnode?style=for-the-badge&logo=npm&logoColor=white&label=%40codensity%2Fnode&color=CB3837)](https://www.npmjs.com/package/@codensity/node)
+[![Source](https://img.shields.io/badge/-codensity--suite-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prince-appiah/codensity-suite)
 
 - 📦 The Node.js SDK ships as **[`@codensity/node`](https://www.npmjs.com/package/@codensity/node)** - one `track()` call wraps any async function, with first-class Express middleware and a NestJS module, interceptor and decorator.
-- 🧱 Built as a pnpm + Turborepo monorepo: NestJS API, TanStack Start frontend, Drizzle/PostgreSQL, BullMQ workers, all running under Docker.
+- 🧱 Built as an open-source pnpm + Turborepo monorepo ([`codensity-suite`](https://github.com/prince-appiah/codensity-suite)): NestJS API, TanStack Start frontend, Drizzle/PostgreSQL, all running under Docker.
+- 🌱 Currently learning **Go** and keen to collaborate on Go projects. If you're building something in Go and want an extra pair of hands (or someone to learn alongside), reach out.
 - 👯 Open to collaborating on open-source projects and weird ideas.
 - 💬 Ask me about API design, TypeScript monorepos, or getting a product from idea to deployed.
 
@@ -37,8 +39,6 @@ Most of my recent work has been on production monorepos: type-safe APIs, backgro
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![BullMQ](https://img.shields.io/badge/-BullMQ-DD2C00?style=for-the-badge&logo=redis&logoColor=white)
-
 **Frontend**
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -52,6 +52,11 @@ Most of my recent work has been on production monorepos: type-safe APIs, backgro
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/-Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Observability**
+
+![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![PostHog](https://img.shields.io/badge/-PostHog-000000?style=for-the-badge&logo=posthog&logoColor=white)
 
 **Infra & tooling**
 
@@ -68,6 +73,10 @@ Most of my recent work has been on production monorepos: type-safe APIs, backgro
 
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**Currently learning**
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 
