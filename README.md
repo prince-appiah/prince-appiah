@@ -24,6 +24,9 @@ Most of my recent work has been on production monorepos: type-safe APIs, backgro
 - 👯 Open to collaborating on open-source projects and weird ideas.
 - 💬 Ask me about API design, TypeScript monorepos, or getting a product from idea to deployed.
 
+
+#### 🐹 Learning Go with Codex and Claude as strict tutors. They provide in-depth resources and test my understanding before I write code or move forward. Follow my progress in my Go learning repository ([here](https://github.com/prince-appiah/surgegate)).
+
 ---
 
 ### Tech I work with
